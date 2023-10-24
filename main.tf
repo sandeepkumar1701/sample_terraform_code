@@ -4,8 +4,8 @@ provider "aws" {
 }
 
 resource "aws_instance" "web02" {
-  ami           = "ami-0261755bbcb8c4a84"
-  instance_type = "t2.micro"
+  ami           = var.ami
+  instance_type = var.instance_type
 
   tags = {
     Name        = "webserver"
