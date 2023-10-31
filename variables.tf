@@ -1,7 +1,14 @@
+variable "count" {
+  description = "Number of instances to create"
+  type        = number
+}
+
 variable "ami" {
-  type = string
+  description = "AMI to be used for instances"
+  type        = string
 }
 
 variable "instance_type" {
-  type = string
+  description = "Instance type"
+  type        = string
 }
