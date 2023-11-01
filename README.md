@@ -3,7 +3,7 @@
 
 ## Youtube Video URL
 ```
-https://
+[https://](https://youtu.be/kIDiP3Unj7Y)
 Dependent repo: https://github.com/kunchalavikram1427/jenkins_terraform_intergration
 ```
 ## Author
