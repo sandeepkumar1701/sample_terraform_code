@@ -1,9 +1,7 @@
 # sample_terraform_code
-[![Build Status](http://174.138.122.184/buildStatus/icon?job=terraform)](http://174.138.122.184/job/terraform/)
-
 ## Youtube Video URL
 ```
-[https://](https://youtu.be/kIDiP3Unj7Y)
+https://youtu.be/kIDiP3Unj7Y
 Dependent repo: https://github.com/kunchalavikram1427/jenkins_terraform_intergration
 ```
 ## Author
